@@ -43,8 +43,7 @@
         "sass": "^1.49.0",
         "simple-get": "^4.0.1",
         "terser": "^5.15.0",
-        "uuid": "^8.3.2",
-        "requirejs": ">=2.3.7"   
+        "uuid": "^8.3.2"         
     },
     "resolutions": {
         "simple-get": "^4.0.1",
@@ -84,8 +83,7 @@
         "botbuilder-dialogs": "4.19.2",
         "@types/node": "^14.0.0",
         "body-parser": ">=1.20.3",
-        "path-to-regexp": ">=0.1.10",
-        "requirejs": ">=2.3.7"   
+        "path-to-regexp": ">=0.1.10"         
     },
     "devDependencies": {
         "@babel/plugin-proposal-private-property-in-object": "7.21.11",
