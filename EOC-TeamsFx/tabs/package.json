@@ -102,7 +102,8 @@
         "underscore": "1.12.1",
         "fast-loops": ">=1.1.4",
         "ws": ">=8.17.1",
-        "fast-xml-parser": ">=4.4.1"         
+        "fast-xml-parser": ">=4.4.1",
+        "requirejs": ">=2.3.7"         
     },
     "scripts": {
         "start": "react-scripts start",
