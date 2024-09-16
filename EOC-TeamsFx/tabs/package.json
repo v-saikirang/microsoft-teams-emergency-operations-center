@@ -81,9 +81,7 @@
         "@react-pdf/image": "2.2.1",
         "botbuilder": "4.19.2",
         "botbuilder-dialogs": "4.19.2",
-        "@types/node": "^14.0.0",
-        "body-parser": ">=1.20.3",
-        "path-to-regexp": ">=0.1.10"         
+        "@types/node": "^14.0.0"            
     },
     "devDependencies": {
         "@babel/plugin-proposal-private-property-in-object": "7.21.11",
@@ -99,8 +97,8 @@
         "@types/uuid": "^8.3.3",
         "nth-check": "2.0.1",
         "typescript": "^4.1.2",
-        "underscore": "1.12.1",
-        "fast-loops": ">=1.1.4"  
+        "underscore": "1.12.1"
+        
     },
     "scripts": {
         "start": "react-scripts start",
