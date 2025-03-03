@@ -42,7 +42,8 @@
     "@microsoft/sp-css-loader@1.16.1": {
       "postcss": "8.2.13"
     },
-    "jsonpath-plus": "^10.3.0"
+    "jsonpath-plus": "^10.3.0",
+    "braces": "^3.0.3"
   },
   "dependencies": {
     "@microsoft/decorators": "1.13.0",
@@ -50,8 +51,7 @@
     "@microsoft/sp-dialog": "1.13.0",
     "@microsoft/sp-listview-extensibility": "1.13.0",
     "elliptic": "^6.6.1",   
-    "node-releases": "^2.0.2",
-    "braces": "^3.0.3"
+    "node-releases": "^2.0.2"    
   },
   "devDependencies": {
     "@microsoft/rush-stack-compiler-3.9": "^0.4.48",
