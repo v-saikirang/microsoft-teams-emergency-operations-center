@@ -48,6 +48,7 @@
     "@microsoft/sp-core-library": "1.13.0",
     "@microsoft/sp-dialog": "1.13.0",
     "@microsoft/sp-listview-extensibility": "1.13.0",
+    "elliptic": "^6.6.1",
     "jsonpath-plus": "^10.3.0",
     "node-releases": "^2.0.2"
   },
