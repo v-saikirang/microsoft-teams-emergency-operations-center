@@ -43,7 +43,8 @@
       "postcss": "8.2.13"
     },
     "jsonpath-plus": "^10.3.0",
-    "braces": "^3.0.3"
+    "braces": "^3.0.3",
+    "ws": "^8.17.1"
   },
   "dependencies": {
     "@microsoft/decorators": "1.13.0",
